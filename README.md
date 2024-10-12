@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&pause=1000&color=3A8DFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ivan+Dihalevich" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Computer+Science+Student;Programming+Enthusiast;Living+in+Ukraine" alt="Typing SVG" />
-</h3>
+<h3 align="center">A passionate Computer Science student at Ostroh Academy, Ukraine</h3>
+
 <p align="center">
   🌍 Living in Ukraine | 💻 Programming Enthusiast
 </p>
