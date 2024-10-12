@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Dihalevich</h1>
-<h3 align="center">A passionate Computer Science student at Ostroh Academy, Ukraine</h3>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Computer+Science+Student;Programming+Enthusiast;Living+in+Ukraine" alt="Typing SVG" />
+</h3>
 <p align="center">
   🌍 Living in Ukraine | 💻 Programming Enthusiast
 </p>
@@ -65,14 +66,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanDihalevich&show_icons=true&theme=dark" alt="Ivan's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDihalevich&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
